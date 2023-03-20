@@ -23,15 +23,17 @@ $ sudo ./gitea-monkey.sh
 
 # After server installation, configure gitea settings and finish the installation.
 ```
-![Image of finish](https://github.com/manushadilan/)
+![Image of finish](https://github.com/manushadilan/gitea-monkey/blob/main/Screenshot%20from%202023-03-20%2009-28-52.png)
 
 * Create Gitea user and get access token
 
-![Image of Gitea access token](https://github.com/manushadilan/)
+![Image of Gitea access token](https://github.com/manushadilan/gitea-monkey/blob/main/Screenshot%20from%202023-03-20%2011-28-20.png)
 
 * Get Github acess token 
 
-![Image of Github acess token](https://github.com/manushadilan/)
+![Image of Github acess token](https://github.com/manushadilan/gitea-monkey/blob/main/Screenshot%20from%202023-03-20%2011-31-08.png)
+
+* Mirror all repos
 
 ```
 # run gitea-monkey-mirror script with sudo permission to mirror all repos 
